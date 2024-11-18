@@ -1,0 +1,11 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "This project doesn't work properly with the current versions of browsers due to privacy issues.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
